@@ -1,1 +1,1 @@
-var variableName = angular.module('variableName', []);
+var appName = angular.module('appName', []);
